@@ -1,0 +1,1 @@
+{"name":"rubble-club","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"tsc --noEmit && vite build","test":"node --experimental-strip-types --test tests/*.test.ts"},"dependencies":{"three":"0.180.0","@dimforge/rapier3d-compat":"0.20.0"},"devDependencies":{"@types/three":"0.180.0","typescript":"~5.9.3","vite":"^7.1.7"}}
